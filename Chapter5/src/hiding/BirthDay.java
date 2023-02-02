@@ -6,7 +6,7 @@ class BirthDay {
 	private int month;
 	private int year;
 	
-	// public, private 아무것도 안 쓰면 같은 패키지에서 사용 가능
+	// public, private 아무것도 안 쓰면 default임 같은 패키지에서 사용 가능
 	
 	public int getDay() {
 		return day;
