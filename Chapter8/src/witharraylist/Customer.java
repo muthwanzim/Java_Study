@@ -1,4 +1,4 @@
-package Inheritance;
+package witharraylist;
 
 public class Customer {
 

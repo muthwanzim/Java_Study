@@ -10,7 +10,7 @@ public class CustomerTest1 {
 		Kim.setCustomerName("Kim");
 		*/
 		
-		VIPCustomer Lee = new VIPCustomer(1002, "Lee");
+		VIPCustomer Lee = new VIPCustomer(1002, "Lee", 100);
 		// Lee.setCustomerID(1002);
 		// Lee.setCustomerName("Lee");
 		
